@@ -3,7 +3,7 @@
 
 ## Links:
 
-- **Deployment URL:** https://flipkart-frontend-one.vercel.app/
+- **Deployment URL:** https://imdb-redesigned.vercel.app/
 
 ## About the App:
 
@@ -38,7 +38,7 @@ This project is a clone of IMDb, the popular movie and TV show database. It is b
 
 ## How to Run:
 
-### **Clone the repository:**https://github.com/AbhishekJsX10/Flipkart_frontend
+### **Clone the repository:**https://github.com/AbhishekJsX10/IMDB-Redesigned.git
 
 ```bash
 git clone 
@@ -172,11 +172,11 @@ IMDB was created to offer a seamless tvshow and movie checking experience by uti
 
 #### Deployment Steps
 
-1. **Fork the Repository:** https://github.com/AbhishekJsX10/Flipkart_frontend.git to your local machine.
+1. **Fork the Repository:** https://github.com/AbhishekJsX10/IMDB-Redesigned.git to your local machine.
 2. Sign up for a Vercel account if you haven't already done so.
 3. After logging in, navigate to the Vercel dashboard and click on "New Project."
 4. Choose "Import Git Repository" and connect your GitHub account if required.
-5. Select the forked repository (e-commerce-react-firebase) from your GitHub repositories.
+5. Select the forked repository (IMDB-clone) from your GitHub repositories.
 6. Configure project settings according to your requirements.
 7. Set up environment variables, including your Firebase credentials, in the Vercel dashboard.
 8. Finally, click on "Deploy" and monitor the deployment process until it finishes successfully.
